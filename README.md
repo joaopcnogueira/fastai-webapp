@@ -1,5 +1,7 @@
 # Bear Classification App
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joaopcnogueira/fastai-webapp/HEAD?urlpath=%2Fvoila%2Frender%2Fbear_classification_app.ipynb)
+
 The model has been trained by fine-tune a ResNet34 architecture into images of grizzle, black and teddy bears downloaded using the [duck duck go](https://duckduckgo.com/) search tool. The training has been done on [google colab](https://colab.research.google.com/) platform.
 
 The app was built within jupyter notebooks by using the [voila](https://voila.readthedocs.io/en/stable/using.html) library.
